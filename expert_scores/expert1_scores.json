@@ -1,0 +1,157 @@
+{
+  "REQ-1": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-2": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-3": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-4": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Pass"
+  },
+  "REQ-5": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-6": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-7": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-8": {
+    "Content compliance": "Fail",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-9": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Passes",
+    "Data compliance": "Fail"
+  },
+  "REQ-10": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-11": {
+    "Content compliance": "Fail",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-12": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-13": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-14": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-15": {
+    "Content compliance": "Fail",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-16": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Passes",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-17": {
+    "Content compliance": "Fail",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-18": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-19": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-20": {
+    "Content compliance": "Fail",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-21": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-22": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Pass"
+  },
+  "REQ-23": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Pass"
+  },
+  "REQ-24": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Pass"
+  },
+  "REQ-25": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Intermediate"
+  },
+  "REQ-26": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-27": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-28": {
+    "Content compliance": "Pass",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-29": {
+    "Content compliance": "Fail",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-30": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  },
+  "REQ-31": {
+    "Content compliance": "Intermediate",
+    "Semantic compliance": "Fail",
+    "Data compliance": "Fail"
+  }
+}
