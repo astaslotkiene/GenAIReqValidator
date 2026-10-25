@@ -1,6 +1,6 @@
 # GenAIReqValidator: data and results
 
-Data and result files for the article "A formal decision model for requirements compliance validation with Graph RAG-based LLMs: an industrial case study" (A. Slotkienė, M. Čenys). They allow every number, table and figure of the article to be recomputed. The files were taken from the validation tool's repository, commit 3e5a12c on 10 May 2026.
+Data and result files for the article "A formal decision model for requirements compliance validation with Graph RAG-based LLMs: an industrial case study". They allow every number, table and figure of the article to be recomputed. The files were taken from the validation tool's repository, commit 3e5a12c on 10 May 2026.
 
 ## Contents
 
